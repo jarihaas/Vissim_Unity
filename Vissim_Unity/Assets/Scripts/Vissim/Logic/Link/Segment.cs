@@ -36,7 +36,7 @@ namespace Vissim.Logic
         public float Y_Kat
         { get { return this.End.y - this.Start.y; } }
 
-        public float XYZ_Kat
+        public float XYZ_Hyp
         { get { return Mathf.Sqrt(Mathf.Pow(this.XZ_Hyp, 2) + Mathf.Pow(this.Y_Kat, 2)); } }
 
         public Link_Segment()

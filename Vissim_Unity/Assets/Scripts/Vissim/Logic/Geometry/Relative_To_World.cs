@@ -10,7 +10,7 @@ namespace Vissim.Logic.Geometry
         
         /* This method calculates the world coordinates out of a relative Position on a given Link. */
         /* The world coordinates are given in the returned vector. */
-        public Vector3
+        public static Vector3
         Calc_Vec_World_Coord(   Link    Link,
                                 double  R_Pos)
         {

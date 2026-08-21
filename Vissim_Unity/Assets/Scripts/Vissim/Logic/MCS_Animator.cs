@@ -3,7 +3,7 @@ using System.Collections;
 
 namespace Vissim.Logic
 {
-    public class MCSAnimatorController : MonoBehaviour
+    public class MCS_Animator_Controller : MonoBehaviour
     {
         private Animator Anim;
         public float Speed;

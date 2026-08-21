@@ -14,7 +14,7 @@ namespace Vissim.Signal
         { get; set; }
 
         // link obj
-        // public Link Link { get; set; }
+        public Logic.Link Link { get; set; }
 
         // lane SelectedRoute
         public Logic.Lane Lane

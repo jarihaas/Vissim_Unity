@@ -1,0 +1,578 @@
+fileFormatVersion: 2
+guid: 558a237cd8a27d648a7fce1f130ece0c
+timeCreated: 1480602315
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 40b3d549434fd74933e36c8b46f1c5a6
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 1.488156, y: 2.0561106, z: 5.942961}
+      lookAt: {x: -1.8777596, y: 0.878545, z: -0.6319886}
+      up: {x: -0.071741275, y: 0.9875294, z: -0.14013879}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Group 1
+    100004: Group 15
+    100006: Group 2
+    100008: Group 26
+    100010: Group 37
+    100012: Group 4
+    100014: obj267
+    100016: obj268
+    100018: obj270
+    100020: obj271
+    100022: obj274
+    100024: obj275
+    100026: obj276
+    100028: obj277
+    100030: obj278
+    100032: obj279
+    100034: obj280
+    100036: obj283
+    100038: obj284
+    100040: obj286
+    100042: obj287
+    100044: obj288
+    100046: obj289
+    100048: obj290
+    100050: obj291
+    100052: obj292
+    100054: obj293
+    100056: obj294
+    100058: obj295
+    100060: obj296
+    100062: obj297
+    100064: obj298
+    100066: obj299
+    100068: obj300
+    100070: obj301
+    100072: obj302
+    100074: obj303
+    100076: obj304
+    100078: obj305
+    100080: obj306
+    100082: obj307
+    100084: obj308
+    100086: obj308 1
+    100088: obj308 2
+    100090: obj308 3
+    100092: obj316
+    100094: obj316 1
+    100096: obj316 2
+    100098: obj316 3
+    100100: obj317
+    100102: obj317 1
+    100104: obj317 2
+    100106: obj317 3
+    100108: obj320
+    100110: obj321
+    100112: obj322
+    100114: obj323
+    100116: obj324
+    100118: obj325
+    100120: obj326
+    100122: obj327
+    100124: obj328
+    100126: obj329
+    100128: obj330
+    100130: obj331
+    100132: obj331 1
+    100134: obj332
+    100136: obj333
+    100138: obj333 1
+    100140: obj334
+    100142: obj334 1
+    100144: obj335
+    100146: obj336
+    100148: obj338
+    100150: obj341
+    100152: obj342
+    100154: obj342 1
+    100156: obj345
+    100158: obj345 1
+    100160: obj345 2
+    100162: obj345 3
+    100164: obj350
+    100166: obj351
+    100168: obj352
+    100170: obj353
+    100172: obj353 1
+    100174: obj355
+    100176: obj358
+    100178: obj359
+    100180: obj362
+    100182: obj363
+    100184: obj364
+    100186: obj365
+    100188: obj366
+    100190: obj367
+    100192: obj368
+    100194: obj369
+    100196: obj369 1
+    100198: obj369 2
+    100200: obj369 3
+    100202: obj371
+    100204: obj372
+    100206: obj375
+    100208: obj376
+    400000: //RootNode
+    400002: Group 1
+    400004: Group 15
+    400006: Group 2
+    400008: Group 26
+    400010: Group 37
+    400012: Group 4
+    400014: obj267
+    400016: obj268
+    400018: obj270
+    400020: obj271
+    400022: obj274
+    400024: obj275
+    400026: obj276
+    400028: obj277
+    400030: obj278
+    400032: obj279
+    400034: obj280
+    400036: obj283
+    400038: obj284
+    400040: obj286
+    400042: obj287
+    400044: obj288
+    400046: obj289
+    400048: obj290
+    400050: obj291
+    400052: obj292
+    400054: obj293
+    400056: obj294
+    400058: obj295
+    400060: obj296
+    400062: obj297
+    400064: obj298
+    400066: obj299
+    400068: obj300
+    400070: obj301
+    400072: obj302
+    400074: obj303
+    400076: obj304
+    400078: obj305
+    400080: obj306
+    400082: obj307
+    400084: obj308
+    400086: obj308 1
+    400088: obj308 2
+    400090: obj308 3
+    400092: obj316
+    400094: obj316 1
+    400096: obj316 2
+    400098: obj316 3
+    400100: obj317
+    400102: obj317 1
+    400104: obj317 2
+    400106: obj317 3
+    400108: obj320
+    400110: obj321
+    400112: obj322
+    400114: obj323
+    400116: obj324
+    400118: obj325
+    400120: obj326
+    400122: obj327
+    400124: obj328
+    400126: obj329
+    400128: obj330
+    400130: obj331
+    400132: obj331 1
+    400134: obj332
+    400136: obj333
+    400138: obj333 1
+    400140: obj334
+    400142: obj334 1
+    400144: obj335
+    400146: obj336
+    400148: obj338
+    400150: obj341
+    400152: obj342
+    400154: obj342 1
+    400156: obj345
+    400158: obj345 1
+    400160: obj345 2
+    400162: obj345 3
+    400164: obj350
+    400166: obj351
+    400168: obj352
+    400170: obj353
+    400172: obj353 1
+    400174: obj355
+    400176: obj358
+    400178: obj359
+    400180: obj362
+    400182: obj363
+    400184: obj364
+    400186: obj365
+    400188: obj366
+    400190: obj367
+    400192: obj368
+    400194: obj369
+    400196: obj369 1
+    400198: obj369 2
+    400200: obj369 3
+    400202: obj371
+    400204: obj372
+    400206: obj375
+    400208: obj376
+    2300000: Group 2
+    2300002: obj267
+    2300004: obj268
+    2300006: obj270
+    2300008: obj271
+    2300010: obj274
+    2300012: obj275
+    2300014: obj276
+    2300016: obj277
+    2300018: obj278
+    2300020: obj279
+    2300022: obj280
+    2300024: obj283
+    2300026: obj284
+    2300028: obj286
+    2300030: obj287
+    2300032: obj288
+    2300034: obj289
+    2300036: obj290
+    2300038: obj291
+    2300040: obj292
+    2300042: obj293
+    2300044: obj294
+    2300046: obj295
+    2300048: obj296
+    2300050: obj297
+    2300052: obj298
+    2300054: obj299
+    2300056: obj300
+    2300058: obj301
+    2300060: obj302
+    2300062: obj303
+    2300064: obj304
+    2300066: obj305
+    2300068: obj306
+    2300070: obj307
+    2300072: obj308
+    2300074: obj308 1
+    2300076: obj308 2
+    2300078: obj308 3
+    2300080: obj316
+    2300082: obj316 1
+    2300084: obj316 2
+    2300086: obj316 3
+    2300088: obj317
+    2300090: obj317 1
+    2300092: obj317 2
+    2300094: obj317 3
+    2300096: obj320
+    2300098: obj321
+    2300100: obj322
+    2300102: obj323
+    2300104: obj324
+    2300106: obj325
+    2300108: obj326
+    2300110: obj327
+    2300112: obj328
+    2300114: obj329
+    2300116: obj330
+    2300118: obj331
+    2300120: obj331 1
+    2300122: obj332
+    2300124: obj333
+    2300126: obj333 1
+    2300128: obj334
+    2300130: obj334 1
+    2300132: obj335
+    2300134: obj336
+    2300136: obj338
+    2300138: obj341
+    2300140: obj342
+    2300142: obj342 1
+    2300144: obj345
+    2300146: obj345 1
+    2300148: obj345 2
+    2300150: obj345 3
+    2300152: obj350
+    2300154: obj351
+    2300156: obj352
+    2300158: obj353
+    2300160: obj353 1
+    2300162: obj355
+    2300164: obj358
+    2300166: obj359
+    2300168: obj362
+    2300170: obj363
+    2300172: obj364
+    2300174: obj365
+    2300176: obj366
+    2300178: obj367
+    2300180: obj368
+    2300182: obj369
+    2300184: obj369 1
+    2300186: obj369 2
+    2300188: obj369 3
+    2300190: obj371
+    2300192: obj372
+    2300194: obj375
+    2300196: obj376
+    3300000: Group 2
+    3300002: obj267
+    3300004: obj268
+    3300006: obj270
+    3300008: obj271
+    3300010: obj274
+    3300012: obj275
+    3300014: obj276
+    3300016: obj277
+    3300018: obj278
+    3300020: obj279
+    3300022: obj280
+    3300024: obj283
+    3300026: obj284
+    3300028: obj286
+    3300030: obj287
+    3300032: obj288
+    3300034: obj289
+    3300036: obj290
+    3300038: obj291
+    3300040: obj292
+    3300042: obj293
+    3300044: obj294
+    3300046: obj295
+    3300048: obj296
+    3300050: obj297
+    3300052: obj298
+    3300054: obj299
+    3300056: obj300
+    3300058: obj301
+    3300060: obj302
+    3300062: obj303
+    3300064: obj304
+    3300066: obj305
+    3300068: obj306
+    3300070: obj307
+    3300072: obj308
+    3300074: obj308 1
+    3300076: obj308 2
+    3300078: obj308 3
+    3300080: obj316
+    3300082: obj316 1
+    3300084: obj316 2
+    3300086: obj316 3
+    3300088: obj317
+    3300090: obj317 1
+    3300092: obj317 2
+    3300094: obj317 3
+    3300096: obj320
+    3300098: obj321
+    3300100: obj322
+    3300102: obj323
+    3300104: obj324
+    3300106: obj325
+    3300108: obj326
+    3300110: obj327
+    3300112: obj328
+    3300114: obj329
+    3300116: obj330
+    3300118: obj331
+    3300120: obj331 1
+    3300122: obj332
+    3300124: obj333
+    3300126: obj333 1
+    3300128: obj334
+    3300130: obj334 1
+    3300132: obj335
+    3300134: obj336
+    3300136: obj338
+    3300138: obj341
+    3300140: obj342
+    3300142: obj342 1
+    3300144: obj345
+    3300146: obj345 1
+    3300148: obj345 2
+    3300150: obj345 3
+    3300152: obj350
+    3300154: obj351
+    3300156: obj352
+    3300158: obj353
+    3300160: obj353 1
+    3300162: obj355
+    3300164: obj358
+    3300166: obj359
+    3300168: obj362
+    3300170: obj363
+    3300172: obj364
+    3300174: obj365
+    3300176: obj366
+    3300178: obj367
+    3300180: obj368
+    3300182: obj369
+    3300184: obj369 1
+    3300186: obj369 2
+    3300188: obj369 3
+    3300190: obj371
+    3300192: obj372
+    3300194: obj375
+    3300196: obj376
+    4300000: Mesh Group 2
+    4300002: Mesh obj308
+    4300004: Mesh obj316
+    4300006: Mesh obj317
+    4300008: Mesh obj345
+    4300010: Mesh obj369
+    4300012: Mesh obj267
+    4300014: Mesh obj268
+    4300016: Mesh obj270
+    4300018: Mesh obj271
+    4300020: Mesh obj274
+    4300022: Mesh obj275
+    4300024: Mesh obj276
+    4300026: Mesh obj277
+    4300028: Mesh obj278
+    4300030: Mesh obj279
+    4300032: Mesh obj280
+    4300034: Mesh obj283
+    4300036: Mesh obj284
+    4300038: Mesh obj286
+    4300040: Mesh obj287
+    4300042: Mesh obj288
+    4300044: Mesh obj289
+    4300046: Mesh obj290
+    4300048: Mesh obj291
+    4300050: Mesh obj292
+    4300052: Mesh obj293
+    4300054: Mesh obj294
+    4300056: Mesh obj295
+    4300058: Mesh obj296
+    4300060: Mesh obj297
+    4300062: Mesh obj298
+    4300064: Mesh obj299
+    4300066: Mesh obj300
+    4300068: Mesh obj301
+    4300070: Mesh obj302
+    4300072: Mesh obj303
+    4300074: Mesh obj304
+    4300076: Mesh obj305
+    4300078: Mesh obj306
+    4300080: Mesh obj307
+    4300082: Mesh obj320
+    4300084: Mesh obj321
+    4300086: Mesh obj322
+    4300088: Mesh obj323
+    4300090: Mesh obj324
+    4300092: Mesh obj325
+    4300094: Mesh obj326
+    4300096: Mesh obj327
+    4300098: Mesh obj328
+    4300100: Mesh obj329
+    4300102: Mesh obj330
+    4300104: Mesh obj331
+    4300106: Mesh obj332
+    4300108: Mesh obj333
+    4300110: Mesh obj334
+    4300112: Mesh obj335
+    4300114: Mesh obj336
+    4300116: Mesh obj338
+    4300118: Mesh obj341
+    4300120: Mesh obj342
+    4300122: Mesh obj350
+    4300124: Mesh obj352
+    4300126: Mesh obj353
+    4300128: Mesh obj355
+    4300130: Mesh obj358
+    4300132: Mesh obj359
+    4300134: Mesh obj362
+    4300136: Mesh obj363
+    4300138: Mesh obj364
+    4300140: Mesh obj365
+    4300142: Mesh obj366
+    4300144: Mesh obj367
+    4300146: Mesh obj368
+    4300148: Mesh obj371
+    4300150: Mesh obj372
+    4300152: Mesh obj375
+    4300154: Mesh obj376
+    4300156: Mesh obj351
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

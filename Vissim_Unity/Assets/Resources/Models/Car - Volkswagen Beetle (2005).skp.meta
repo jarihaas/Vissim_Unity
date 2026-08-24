@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: 78cd3e137ab55b442b61358a5c38fc7d
+timeCreated: 1480602328
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d000000
+  assetHash:
+    serializedVersion: 2
+    Hash: feb8ea38c4c3499a484a7899703fc3f6
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 3.9258358, y: 2.7148685, z: -0.05753744}
+      lookAt: {x: 0.8727636, y: 1.3374089, z: -0.34331876}
+      up: {x: -0.40798035, y: 0.9121917, z: -0.0381888}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BEETLE POLIZEI
+    100002: cadre_noi1
+    100004: cadre_noir
+    100006: //RootNode
+    100008: carroserie
+    100010: ciel_de_to
+    100012: cligno_feu
+    100014: clignotant
+    100016: coque_retr
+    100018: cote
+    100020: far
+    100022: feux_rouge
+    100024: imat
+    100026: imat01
+    100028: interieur
+    100030: joint
+    100032: logo
+    100034: logo01
+    100036: miror
+    100038: passage_de
+    100040: phare
+    100042: plancher
+    100044: pneu
+    100046: pneu01
+    100048: pneu02
+    100050: pneu03
+    100052: rar1
+    100054: ravd1
+    100056: ravg1
+    100058: siege
+    100060: vitre
+    100062: vitre_phar
+    400000: BEETLE POLIZEI
+    400002: cadre_noi1
+    400004: cadre_noir
+    400006: //RootNode
+    400008: carroserie
+    400010: ciel_de_to
+    400012: cligno_feu
+    400014: clignotant
+    400016: coque_retr
+    400018: cote
+    400020: far
+    400022: feux_rouge
+    400024: imat
+    400026: imat01
+    400028: interieur
+    400030: joint
+    400032: logo
+    400034: logo01
+    400036: miror
+    400038: passage_de
+    400040: phare
+    400042: plancher
+    400044: pneu
+    400046: pneu01
+    400048: pneu02
+    400050: pneu03
+    400052: rar1
+    400054: ravd1
+    400056: ravg1
+    400058: siege
+    400060: vitre
+    400062: vitre_phar
+    2300000: cadre_noi1
+    2300002: cadre_noir
+    2300004: carroserie
+    2300006: ciel_de_to
+    2300008: cligno_feu
+    2300010: clignotant
+    2300012: coque_retr
+    2300014: cote
+    2300016: far
+    2300018: feux_rouge
+    2300020: imat
+    2300022: imat01
+    2300024: interieur
+    2300026: joint
+    2300028: logo
+    2300030: logo01
+    2300032: miror
+    2300034: passage_de
+    2300036: phare
+    2300038: plancher
+    2300040: pneu
+    2300042: pneu01
+    2300044: pneu02
+    2300046: pneu03
+    2300048: rar1
+    2300050: ravd1
+    2300052: ravg1
+    2300054: siege
+    2300056: vitre
+    2300058: vitre_phar
+    3300000: cadre_noi1
+    3300002: cadre_noir
+    3300004: carroserie
+    3300006: ciel_de_to
+    3300008: cligno_feu
+    3300010: clignotant
+    3300012: coque_retr
+    3300014: cote
+    3300016: far
+    3300018: feux_rouge
+    3300020: imat
+    3300022: imat01
+    3300024: interieur
+    3300026: joint
+    3300028: logo
+    3300030: logo01
+    3300032: miror
+    3300034: passage_de
+    3300036: phare
+    3300038: plancher
+    3300040: pneu
+    3300042: pneu01
+    3300044: pneu02
+    3300046: pneu03
+    3300048: rar1
+    3300050: ravd1
+    3300052: ravg1
+    3300054: siege
+    3300056: vitre
+    3300058: vitre_phar
+    4300000: Mesh pneu03
+    4300002: Mesh ravd1
+    4300004: Mesh pneu
+    4300006: Mesh ravg1
+    4300008: Mesh pneu01
+    4300010: Mesh pneu02
+    4300012: Mesh rar1
+    4300014: Mesh cadre_noi1
+    4300016: Mesh cadre_noir
+    4300018: Mesh carroserie
+    4300020: Mesh ciel_de_to
+    4300022: Mesh cligno_feu
+    4300024: Mesh clignotant
+    4300026: Mesh coque_retr
+    4300028: Mesh cote
+    4300030: Mesh far
+    4300032: Mesh feux_rouge
+    4300034: Mesh imat
+    4300036: Mesh imat01
+    4300038: Mesh interieur
+    4300040: Mesh joint
+    4300042: Mesh logo
+    4300044: Mesh logo01
+    4300046: Mesh miror
+    4300048: Mesh passage_de
+    4300050: Mesh phare
+    4300052: Mesh plancher
+    4300054: Mesh siege
+    4300056: Mesh vitre
+    4300058: Mesh vitre_phar
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

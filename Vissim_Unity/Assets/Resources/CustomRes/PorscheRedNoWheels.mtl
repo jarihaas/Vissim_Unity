@@ -1,0 +1,86 @@
+# Exported from 3D Builder
+
+newmtl Car_Paint
+Kd 0.686275 0.000000 0.000000
+
+newmtl Metal2
+Kd 0.533333 0.533333 0.533333
+
+newmtl White
+Kd 1.000000 1.000000 1.000000
+map_Kd PTV_Planung_Transport_Verkehr_logo.svg.png
+
+newmtl License
+Kd 1.000000 1.000000 1.000000
+map_Kd LICENSE.png
+
+newmtl Material__598
+Kd 0.588000 0.588000 0.588000
+
+newmtl White_0
+Kd 1.000000 1.000000 1.000000
+
+newmtl Misc3
+Kd 1.000000 1.000000 1.000000
+map_Kd CAYMANS MISC.png
+
+newmtl Car_Paint
+Kd 0.686275 0.000000 0.000000
+
+newmtl White
+Kd 1.000000 1.000000 1.000000
+map_Kd PTV_Planung_Transport_Verkehr_logo.svg.png
+
+newmtl Material__598
+Kd 0.588000 0.588000 0.588000
+
+newmtl White_0
+Kd 1.000000 1.000000 1.000000
+
+newmtl Misc3
+Kd 1.000000 1.000000 1.000000
+map_Kd CAYMANS MISC.png
+
+newmtl Metal2
+Kd 0.533333 0.533333 0.533333
+
+newmtl Material1
+Kd 0.039216 0.039216 0.039216
+
+newmtl Material1
+Kd 0.039216 0.039216 0.039216
+
+newmtl Material__588
+Kd 1.000000 1.000000 1.000000
+map_Kd CAYMANS BRAKELIGHT.png
+
+newmtl Material__597
+Kd 0.570000 0.570000 0.570000
+
+newmtl Interior
+Kd 1.000000 1.000000 1.000000
+map_Kd CAYMANS INTERIOR.png
+
+newmtl Misc_Chrome0
+Kd 1.000000 1.000000 1.000000
+map_Kd CAYMANS MISC.png
+
+newmtl Car_Paint
+Kd 0.686275 0.000000 0.000000
+
+newmtl Material__588
+Kd 1.000000 1.000000 1.000000
+map_Kd CAYMANS BRAKELIGHT.png
+
+newmtl Car_Paint
+Kd 0.686275 0.000000 0.000000
+
+newmtl Car_Paint
+Kd 0.686275 0.000000 0.000000
+
+newmtl White
+Kd 1.000000 1.000000 1.000000
+map_Kd PTV_Planung_Transport_Verkehr_logo.svg.png
+
+newmtl Car_Paint
+Kd 0.686275 0.000000 0.000000

@@ -1,0 +1,625 @@
+fileFormatVersion: 2
+guid: ee847b8a60878244889871b4bd66eb1a
+timeCreated: 1481647561
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 76a4620c9fbde389f69dce495d2a8d2a
+  longitude: 13.417
+  latitude: 52.533
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 1.9566886, y: 2.4788845, z: 2.702899}
+      lookAt: {x: -0.048093587, y: 1.294402, z: 0.9425536}
+      up: {x: -0.30491123, y: 0.91397345, z: -0.26773435}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bike_frame
+    100004: Bip001 Hea
+    100006: Bip001 L 2
+    100008: Bip001 L 3
+    100010: Bip001 L C
+    100012: Bip001 L F
+    100014: Bip001 L H
+    100016: Bip001 L T
+    100018: Bip001 L U
+    100020: Bip001 Nec
+    100022: Bip001 Pel
+    100024: Bip001 R 2
+    100026: Bip001 R 3
+    100028: Bip001 R C
+    100030: Bip001 R F
+    100032: Bip001 R H
+    100034: Bip001 R T
+    100036: Bip001 R U
+    100038: Bip001 Sp0
+    100040: Bip001 Sp1
+    100042: Bip001 Sp2
+    100044: Bip001 Spi
+    100046: Box001
+    100048: Box002
+    100050: Box003
+    100052: Cylinder00
+    100054: Cylinder01
+    100056: Cylinder02
+    100058: Cylinder03
+    100060: Cylinder04
+    100062: Cylinder05
+    100064: Cylinder06
+    100066: Cylinder07
+    100068: Cylinder08
+    100070: Cylinder09
+    100072: Cylinder10
+    100074: Cylinder11
+    100076: Cylinder12
+    100078: Cylinder13
+    100080: Cylinder14
+    100082: Cylinder15
+    100084: Cylinder16
+    100086: Cylinder17
+    100088: Cylinder18
+    100090: Cylinder19
+    100092: Cylinder20
+    100094: Cylinder21
+    100096: Cylinder22
+    100098: Cylinder23
+    100100: Cylinder24
+    100102: Cylinder25
+    100104: Cylinder26
+    100106: Cylinder27
+    100108: Cylinder28
+    100110: Cylinder29
+    100112: Cylinder30
+    100114: Cylinder31
+    100116: Cylinder32
+    100118: Cylinder33
+    100120: Cylinder34
+    100122: Cylinder35
+    100124: Cylinder36
+    100126: Cylinder37
+    100128: Cylinder38
+    100130: Cylinder39
+    100132: Cylinder40
+    100134: Cylinder41
+    100136: Cylinder42
+    100138: Cylinder43
+    100140: Cylinder44
+    100142: Cylinder45
+    100144: Cylinder46
+    100146: Cylinder47
+    100148: Cylinder48
+    100150: Cylinder49
+    100152: Cylinder50
+    100154: Cylinder51
+    100156: Cylinder52
+    100158: Cylinder53
+    100160: Cylinder54
+    100162: Cylinder55
+    100164: Cylinder56
+    100166: Cylinder57
+    100168: Cylinder58
+    100170: Cylinder59
+    100172: Cylinder60
+    100174: Cylinder61
+    100176: Cylinder62
+    100178: Cylinder63
+    100180: Cylinder64
+    100182: Cylinder65
+    100184: Cylinder66
+    100186: Cylinder67
+    100188: Cylinder68
+    100190: Cylinder69
+    100192: Cylinder70
+    100194: Cylinder71
+    100196: Cylinder72
+    100198: Cylinder73
+    100200: Cylinder74
+    100202: Cylinder75
+    100204: gabel_vorn
+    100206: reifen_hin
+    100208: reifen_vor
+    100210: skp71E1
+    100212: Sphere001
+    100214: torso
+    400000: //RootNode
+    400002: bike_frame
+    400004: Bip001 Hea
+    400006: Bip001 L 2
+    400008: Bip001 L 3
+    400010: Bip001 L C
+    400012: Bip001 L F
+    400014: Bip001 L H
+    400016: Bip001 L T
+    400018: Bip001 L U
+    400020: Bip001 Nec
+    400022: Bip001 Pel
+    400024: Bip001 R 2
+    400026: Bip001 R 3
+    400028: Bip001 R C
+    400030: Bip001 R F
+    400032: Bip001 R H
+    400034: Bip001 R T
+    400036: Bip001 R U
+    400038: Bip001 Sp0
+    400040: Bip001 Sp1
+    400042: Bip001 Sp2
+    400044: Bip001 Spi
+    400046: Box001
+    400048: Box002
+    400050: Box003
+    400052: Cylinder00
+    400054: Cylinder01
+    400056: Cylinder02
+    400058: Cylinder03
+    400060: Cylinder04
+    400062: Cylinder05
+    400064: Cylinder06
+    400066: Cylinder07
+    400068: Cylinder08
+    400070: Cylinder09
+    400072: Cylinder10
+    400074: Cylinder11
+    400076: Cylinder12
+    400078: Cylinder13
+    400080: Cylinder14
+    400082: Cylinder15
+    400084: Cylinder16
+    400086: Cylinder17
+    400088: Cylinder18
+    400090: Cylinder19
+    400092: Cylinder20
+    400094: Cylinder21
+    400096: Cylinder22
+    400098: Cylinder23
+    400100: Cylinder24
+    400102: Cylinder25
+    400104: Cylinder26
+    400106: Cylinder27
+    400108: Cylinder28
+    400110: Cylinder29
+    400112: Cylinder30
+    400114: Cylinder31
+    400116: Cylinder32
+    400118: Cylinder33
+    400120: Cylinder34
+    400122: Cylinder35
+    400124: Cylinder36
+    400126: Cylinder37
+    400128: Cylinder38
+    400130: Cylinder39
+    400132: Cylinder40
+    400134: Cylinder41
+    400136: Cylinder42
+    400138: Cylinder43
+    400140: Cylinder44
+    400142: Cylinder45
+    400144: Cylinder46
+    400146: Cylinder47
+    400148: Cylinder48
+    400150: Cylinder49
+    400152: Cylinder50
+    400154: Cylinder51
+    400156: Cylinder52
+    400158: Cylinder53
+    400160: Cylinder54
+    400162: Cylinder55
+    400164: Cylinder56
+    400166: Cylinder57
+    400168: Cylinder58
+    400170: Cylinder59
+    400172: Cylinder60
+    400174: Cylinder61
+    400176: Cylinder62
+    400178: Cylinder63
+    400180: Cylinder64
+    400182: Cylinder65
+    400184: Cylinder66
+    400186: Cylinder67
+    400188: Cylinder68
+    400190: Cylinder69
+    400192: Cylinder70
+    400194: Cylinder71
+    400196: Cylinder72
+    400198: Cylinder73
+    400200: Cylinder74
+    400202: Cylinder75
+    400204: gabel_vorn
+    400206: reifen_hin
+    400208: reifen_vor
+    400210: skp71E1
+    400212: Sphere001
+    400214: torso
+    2300000: bike_frame
+    2300002: Bip001 Hea
+    2300004: Bip001 L 2
+    2300006: Bip001 L 3
+    2300008: Bip001 L C
+    2300010: Bip001 L F
+    2300012: Bip001 L H
+    2300014: Bip001 L T
+    2300016: Bip001 L U
+    2300018: Bip001 Nec
+    2300020: Bip001 Pel
+    2300022: Bip001 R 2
+    2300024: Bip001 R 3
+    2300026: Bip001 R C
+    2300028: Bip001 R F
+    2300030: Bip001 R H
+    2300032: Bip001 R T
+    2300034: Bip001 R U
+    2300036: Bip001 Sp0
+    2300038: Bip001 Sp1
+    2300040: Bip001 Sp2
+    2300042: Bip001 Spi
+    2300044: Box001
+    2300046: Box002
+    2300048: Box003
+    2300050: Cylinder00
+    2300052: Cylinder01
+    2300054: Cylinder02
+    2300056: Cylinder03
+    2300058: Cylinder04
+    2300060: Cylinder05
+    2300062: Cylinder06
+    2300064: Cylinder07
+    2300066: Cylinder08
+    2300068: Cylinder09
+    2300070: Cylinder10
+    2300072: Cylinder11
+    2300074: Cylinder12
+    2300076: Cylinder13
+    2300078: Cylinder14
+    2300080: Cylinder15
+    2300082: Cylinder16
+    2300084: Cylinder17
+    2300086: Cylinder18
+    2300088: Cylinder19
+    2300090: Cylinder20
+    2300092: Cylinder21
+    2300094: Cylinder22
+    2300096: Cylinder23
+    2300098: Cylinder24
+    2300100: Cylinder25
+    2300102: Cylinder26
+    2300104: Cylinder27
+    2300106: Cylinder28
+    2300108: Cylinder29
+    2300110: Cylinder30
+    2300112: Cylinder31
+    2300114: Cylinder32
+    2300116: Cylinder33
+    2300118: Cylinder34
+    2300120: Cylinder35
+    2300122: Cylinder36
+    2300124: Cylinder37
+    2300126: Cylinder38
+    2300128: Cylinder39
+    2300130: Cylinder40
+    2300132: Cylinder41
+    2300134: Cylinder42
+    2300136: Cylinder43
+    2300138: Cylinder44
+    2300140: Cylinder45
+    2300142: Cylinder46
+    2300144: Cylinder47
+    2300146: Cylinder48
+    2300148: Cylinder49
+    2300150: Cylinder50
+    2300152: Cylinder51
+    2300154: Cylinder52
+    2300156: Cylinder53
+    2300158: Cylinder54
+    2300160: Cylinder55
+    2300162: Cylinder56
+    2300164: Cylinder57
+    2300166: Cylinder58
+    2300168: Cylinder59
+    2300170: Cylinder60
+    2300172: Cylinder61
+    2300174: Cylinder62
+    2300176: Cylinder63
+    2300178: Cylinder64
+    2300180: Cylinder65
+    2300182: Cylinder66
+    2300184: Cylinder67
+    2300186: Cylinder68
+    2300188: Cylinder69
+    2300190: Cylinder70
+    2300192: Cylinder71
+    2300194: Cylinder72
+    2300196: Cylinder73
+    2300198: Cylinder74
+    2300200: Cylinder75
+    2300202: gabel_vorn
+    2300204: reifen_hin
+    2300206: reifen_vor
+    2300208: Sphere001
+    2300210: torso
+    3300000: bike_frame
+    3300002: Bip001 Hea
+    3300004: Bip001 L 2
+    3300006: Bip001 L 3
+    3300008: Bip001 L C
+    3300010: Bip001 L F
+    3300012: Bip001 L H
+    3300014: Bip001 L T
+    3300016: Bip001 L U
+    3300018: Bip001 Nec
+    3300020: Bip001 Pel
+    3300022: Bip001 R 2
+    3300024: Bip001 R 3
+    3300026: Bip001 R C
+    3300028: Bip001 R F
+    3300030: Bip001 R H
+    3300032: Bip001 R T
+    3300034: Bip001 R U
+    3300036: Bip001 Sp0
+    3300038: Bip001 Sp1
+    3300040: Bip001 Sp2
+    3300042: Bip001 Spi
+    3300044: Box001
+    3300046: Box002
+    3300048: Box003
+    3300050: Cylinder00
+    3300052: Cylinder01
+    3300054: Cylinder02
+    3300056: Cylinder03
+    3300058: Cylinder04
+    3300060: Cylinder05
+    3300062: Cylinder06
+    3300064: Cylinder07
+    3300066: Cylinder08
+    3300068: Cylinder09
+    3300070: Cylinder10
+    3300072: Cylinder11
+    3300074: Cylinder12
+    3300076: Cylinder13
+    3300078: Cylinder14
+    3300080: Cylinder15
+    3300082: Cylinder16
+    3300084: Cylinder17
+    3300086: Cylinder18
+    3300088: Cylinder19
+    3300090: Cylinder20
+    3300092: Cylinder21
+    3300094: Cylinder22
+    3300096: Cylinder23
+    3300098: Cylinder24
+    3300100: Cylinder25
+    3300102: Cylinder26
+    3300104: Cylinder27
+    3300106: Cylinder28
+    3300108: Cylinder29
+    3300110: Cylinder30
+    3300112: Cylinder31
+    3300114: Cylinder32
+    3300116: Cylinder33
+    3300118: Cylinder34
+    3300120: Cylinder35
+    3300122: Cylinder36
+    3300124: Cylinder37
+    3300126: Cylinder38
+    3300128: Cylinder39
+    3300130: Cylinder40
+    3300132: Cylinder41
+    3300134: Cylinder42
+    3300136: Cylinder43
+    3300138: Cylinder44
+    3300140: Cylinder45
+    3300142: Cylinder46
+    3300144: Cylinder47
+    3300146: Cylinder48
+    3300148: Cylinder49
+    3300150: Cylinder50
+    3300152: Cylinder51
+    3300154: Cylinder52
+    3300156: Cylinder53
+    3300158: Cylinder54
+    3300160: Cylinder55
+    3300162: Cylinder56
+    3300164: Cylinder57
+    3300166: Cylinder58
+    3300168: Cylinder59
+    3300170: Cylinder60
+    3300172: Cylinder61
+    3300174: Cylinder62
+    3300176: Cylinder63
+    3300178: Cylinder64
+    3300180: Cylinder65
+    3300182: Cylinder66
+    3300184: Cylinder67
+    3300186: Cylinder68
+    3300188: Cylinder69
+    3300190: Cylinder70
+    3300192: Cylinder71
+    3300194: Cylinder72
+    3300196: Cylinder73
+    3300198: Cylinder74
+    3300200: Cylinder75
+    3300202: gabel_vorn
+    3300204: reifen_hin
+    3300206: reifen_vor
+    3300208: Sphere001
+    3300210: torso
+    4300000: Mesh Cylinder09
+    4300002: Mesh Cylinder00
+    4300004: Mesh Cylinder02
+    4300006: Mesh Cylinder03
+    4300008: Mesh Cylinder04
+    4300010: Mesh Cylinder05
+    4300012: Mesh Cylinder06
+    4300014: Mesh Cylinder07
+    4300016: Mesh Cylinder08
+    4300018: Mesh Cylinder10
+    4300020: Mesh Cylinder11
+    4300022: Mesh Cylinder12
+    4300024: Mesh Cylinder13
+    4300026: Mesh Cylinder14
+    4300028: Mesh Cylinder15
+    4300030: Mesh Cylinder16
+    4300032: Mesh Cylinder17
+    4300034: Mesh Cylinder18
+    4300036: Mesh Cylinder19
+    4300038: Mesh Cylinder20
+    4300040: Mesh Cylinder21
+    4300042: Mesh Cylinder22
+    4300044: Mesh Cylinder23
+    4300046: Mesh Cylinder24
+    4300048: Mesh Cylinder25
+    4300050: Mesh Cylinder26
+    4300052: Mesh Cylinder27
+    4300054: Mesh Cylinder28
+    4300056: Mesh Cylinder29
+    4300058: Mesh Cylinder30
+    4300060: Mesh Cylinder31
+    4300062: Mesh Cylinder32
+    4300064: Mesh Cylinder33
+    4300066: Mesh Cylinder34
+    4300068: Mesh Cylinder35
+    4300070: Mesh Cylinder36
+    4300072: Mesh Cylinder37
+    4300074: Mesh Cylinder01
+    4300076: Mesh reifen_hin
+    4300078: Mesh Cylinder39
+    4300080: Mesh Cylinder40
+    4300082: Mesh Cylinder41
+    4300084: Mesh Cylinder42
+    4300086: Mesh Cylinder43
+    4300088: Mesh Cylinder44
+    4300090: Mesh Cylinder45
+    4300092: Mesh Cylinder46
+    4300094: Mesh Cylinder47
+    4300096: Mesh Cylinder48
+    4300098: Mesh Cylinder49
+    4300100: Mesh Cylinder50
+    4300102: Mesh Cylinder51
+    4300104: Mesh Cylinder52
+    4300106: Mesh Cylinder53
+    4300108: Mesh Cylinder54
+    4300110: Mesh Cylinder55
+    4300112: Mesh Cylinder56
+    4300114: Mesh Cylinder57
+    4300116: Mesh Cylinder58
+    4300118: Mesh Cylinder59
+    4300120: Mesh Cylinder60
+    4300122: Mesh Cylinder61
+    4300124: Mesh Cylinder62
+    4300126: Mesh Cylinder63
+    4300128: Mesh Cylinder64
+    4300130: Mesh Cylinder65
+    4300132: Mesh Cylinder66
+    4300134: Mesh Cylinder67
+    4300136: Mesh Cylinder68
+    4300138: Mesh Cylinder69
+    4300140: Mesh Cylinder70
+    4300142: Mesh Cylinder71
+    4300144: Mesh Cylinder72
+    4300146: Mesh Cylinder73
+    4300148: Mesh Cylinder74
+    4300150: Mesh Cylinder38
+    4300152: Mesh reifen_vor
+    4300154: Mesh Box001
+    4300156: Mesh Cylinder75
+    4300158: Mesh Bip001 Pel
+    4300160: Mesh Bip001 Spi
+    4300162: Mesh Bip001 L T
+    4300164: Mesh Bip001 L 2
+    4300166: Mesh Bip001 L 3
+    4300168: Mesh Bip001 R T
+    4300170: Mesh Bip001 R 2
+    4300172: Mesh Bip001 R 3
+    4300174: Mesh Bip001 Sp0
+    4300176: Mesh Bip001 Sp1
+    4300178: Mesh Bip001 Sp2
+    4300180: Mesh Bip001 Nec
+    4300182: Mesh Bip001 Hea
+    4300184: Mesh Bip001 L C
+    4300186: Mesh Bip001 L U
+    4300188: Mesh Bip001 L F
+    4300190: Mesh Bip001 L H
+    4300192: Mesh Bip001 R C
+    4300194: Mesh Bip001 R U
+    4300196: Mesh Bip001 R F
+    4300198: Mesh Bip001 R H
+    4300200: Mesh Box002
+    4300202: Mesh Box003
+    4300204: Mesh Sphere001
+    4300206: Mesh bike_frame
+    4300208: Mesh gabel_vorn
+    4300210: Mesh torso
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

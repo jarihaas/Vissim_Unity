@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 6de7b8def630d174c989916416586b47
+timeCreated: 1480602324
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f0000002000000021000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 1bf0ea9172b539fa9eae259699d0b9e2
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 3.2723424, y: 4.903485, z: -4.2258396}
+      lookAt: {x: -16.446898, y: -17.775644, z: 18.934366}
+      up: {x: -0.38749817, y: 0.801695, z: 0.45511582}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Group 1
+    100004: Group 2
+    100006: Group 4
+    100008: Group 9
+    100010: right_brak
+    100012: right_brak 1
+    100014: right_he01
+    100016: right_he01 1
+    100018: right_head
+    100020: right_head 1
+    100022: ske1B2
+    100024: ske1B2 1
+    100026: ske1B2 2
+    100028: ske1B2 3
+    100030: sketchup-download200701022301444
+    100032: sketchup-download200701022301444 1
+    100034: sketchup-download200701022301444 2
+    100036: sketchup-download200701022301444 3
+    400000: //RootNode
+    400002: Group 1
+    400004: Group 2
+    400006: Group 4
+    400008: Group 9
+    400010: right_brak
+    400012: right_brak 1
+    400014: right_he01
+    400016: right_he01 1
+    400018: right_head
+    400020: right_head 1
+    400022: ske1B2
+    400024: ske1B2 1
+    400026: ske1B2 2
+    400028: ske1B2 3
+    400030: sketchup-download200701022301444
+    400032: sketchup-download200701022301444 1
+    400034: sketchup-download200701022301444 2
+    400036: sketchup-download200701022301444 3
+    2300000: Group 2
+    2300002: right_brak
+    2300004: right_brak 1
+    2300006: right_he01
+    2300008: right_he01 1
+    2300010: right_head
+    2300012: right_head 1
+    2300014: ske1B2
+    2300016: ske1B2 1
+    2300018: ske1B2 2
+    2300020: ske1B2 3
+    2300022: sketchup-download200701022301444
+    2300024: sketchup-download200701022301444 1
+    2300026: sketchup-download200701022301444 2
+    2300028: sketchup-download200701022301444 3
+    3300000: Group 2
+    3300002: right_brak
+    3300004: right_brak 1
+    3300006: right_he01
+    3300008: right_he01 1
+    3300010: right_head
+    3300012: right_head 1
+    3300014: ske1B2
+    3300016: ske1B2 1
+    3300018: ske1B2 2
+    3300020: ske1B2 3
+    3300022: sketchup-download200701022301444
+    3300024: sketchup-download200701022301444 1
+    3300026: sketchup-download200701022301444 2
+    3300028: sketchup-download200701022301444 3
+    4300000: Mesh Group 2
+    4300002: Mesh right_head
+    4300004: Mesh right_head
+    4300006: Mesh right_he01
+    4300008: Mesh right_brak
+    4300010: Mesh ske1B2
+    4300012: Mesh sketchup-download200701022301444
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

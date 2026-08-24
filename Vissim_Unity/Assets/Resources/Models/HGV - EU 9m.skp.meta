@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 6a0643bb0e6a97c4cb231ccd732ceebf
+timeCreated: 1480602445
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f0000002000000021000000220000002300000024000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 4a5a1ed3d4c3851628568470a04b81b7
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 3.5106962, y: 11.203443, z: 12.156582}
+      lookAt: {x: -1.611527, y: 4.1306944, z: 4.1539936}
+      up: {x: -0.32190064, y: 0.802158, z: -0.5029141}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 14.258993, y: 8.584491, z: -13.181566}
+        lookAt: {x: 1.7429824, y: 2.1247783, z: 6.913271}
+        up: {x: -0.13917013, y: 0.96473074, z: 0.2234419}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Home
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BLACK BLAC
+    100002: BLACK MATT
+    100004: BLACK PLAS
+    100006: BLUE-L
+    100008: CAR GLASS
+    100010: CHROME
+    100012: daf
+    100014: GREY DARK
+    100016: GREY DARK-
+    100018: GREY LIGHT
+    100020: GREY LIGHT#1
+    100022: Group 1
+    100024: //RootNode
+    100026: LIGHT GLAS
+    100028: LIGHT ORAN
+    100030: LIGHT RED
+    100032: LIGHT WHIT
+    100034: WHEEL ALUM
+    100036: WHITE BODY
+    100038: WHITE-1
+    400000: BLACK BLAC
+    400002: BLACK MATT
+    400004: BLACK PLAS
+    400006: BLUE-L
+    400008: CAR GLASS
+    400010: CHROME
+    400012: daf
+    400014: GREY DARK
+    400016: GREY DARK-
+    400018: GREY LIGHT
+    400020: GREY LIGHT#1
+    400022: Group 1
+    400024: //RootNode
+    400026: LIGHT GLAS
+    400028: LIGHT ORAN
+    400030: LIGHT RED
+    400032: LIGHT WHIT
+    400034: WHEEL ALUM
+    400036: WHITE BODY
+    400038: WHITE-1
+    2300000: BLACK BLAC
+    2300002: BLACK MATT
+    2300004: BLACK PLAS
+    2300006: BLUE-L
+    2300008: CAR GLASS
+    2300010: CHROME
+    2300012: GREY DARK
+    2300014: GREY DARK-
+    2300016: GREY LIGHT
+    2300018: GREY LIGHT#1
+    2300020: LIGHT GLAS
+    2300022: LIGHT ORAN
+    2300024: LIGHT RED
+    2300026: LIGHT WHIT
+    2300028: WHEEL ALUM
+    2300030: WHITE BODY
+    2300032: WHITE-1
+    3300000: BLACK BLAC
+    3300002: BLACK MATT
+    3300004: BLACK PLAS
+    3300006: BLUE-L
+    3300008: CAR GLASS
+    3300010: CHROME
+    3300012: GREY DARK
+    3300014: GREY DARK-
+    3300016: GREY LIGHT
+    3300018: GREY LIGHT#1
+    3300020: LIGHT GLAS
+    3300022: LIGHT ORAN
+    3300024: LIGHT RED
+    3300026: LIGHT WHIT
+    3300028: WHEEL ALUM
+    3300030: WHITE BODY
+    3300032: WHITE-1
+    4300000: Mesh BLACK BLAC
+    4300002: Mesh BLACK MATT
+    4300004: Mesh BLACK PLAS
+    4300006: Mesh CAR GLASS
+    4300008: Mesh CHROME
+    4300010: Mesh GREY DARK
+    4300012: Mesh GREY DARK-
+    4300014: Mesh GREY LIGHT
+    4300016: Mesh GREY LIGHT#1
+    4300018: Mesh LIGHT GLAS
+    4300020: Mesh LIGHT ORAN
+    4300022: Mesh LIGHT RED
+    4300024: Mesh LIGHT WHIT
+    4300026: Mesh WHEEL ALUM
+    4300028: Mesh WHITE BODY
+    4300030: Mesh WHITE-1
+    4300032: Mesh BLUE-L
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,774 @@
+fileFormatVersion: 2
+guid: 4cce86304f8352f48b8e22c75b92343e
+timeCreated: 1480602314
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f0100001001000011010000
+  assetHash:
+    serializedVersion: 2
+    Hash: bc43cc2cb4ce4b36ec99a6adf1e81ce6
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 2.1896062, y: 1.6842653, z: -3.2362854}
+      lookAt: {x: -0.79794395, y: 0.4903181, z: -0.34431952}
+      up: {x: -0.19830242, y: 0.9611599, z: 0.19195789}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Entity02
+    100004: Entity03
+    100006: Entity04
+    100008: Entity05
+    100010: Entity06
+    100012: Entity07
+    100014: Entity08
+    100016: Entity09
+    100018: Entity10
+    100020: Entity102
+    100022: Entity103
+    100024: Entity104
+    100026: Entity105
+    100028: Entity106
+    100030: Entity107
+    100032: Entity108
+    100034: Entity109
+    100036: Entity11
+    100038: Entity110
+    100040: Entity12
+    100042: Entity13
+    100044: Entity136
+    100046: Entity137
+    100048: Entity138
+    100050: Entity139
+    100052: Entity140
+    100054: Entity142
+    100056: Entity143
+    100058: Entity144
+    100060: Entity145
+    100062: Entity146
+    100064: Entity147
+    100066: Entity148
+    100068: Entity149
+    100070: Entity15
+    100072: Entity150
+    100074: Entity151
+    100076: Entity153
+    100078: Entity154
+    100080: Entity155
+    100082: Entity156
+    100084: Entity157
+    100086: Entity158
+    100088: Entity16
+    100090: Entity160
+    100092: Entity161
+    100094: Entity162
+    100096: Entity163
+    100098: Entity164
+    100100: Entity165
+    100102: Entity166
+    100104: Entity167
+    100106: Entity17
+    100108: Entity170
+    100110: Entity171
+    100112: Entity172
+    100114: Entity173
+    100116: Entity174
+    100118: Entity175
+    100120: Entity176
+    100122: Entity177
+    100124: Entity178
+    100126: Entity179
+    100128: Entity180
+    100130: Entity181
+    100132: Entity28
+    100134: Entity30
+    100136: Entity31
+    100138: Entity33
+    100140: Entity40
+    100142: Entity41
+    100144: Entity42
+    100146: Entity43
+    100148: Entity44
+    100150: Entity45
+    100152: Entity46
+    100154: Entity47
+    100156: Entity48
+    100158: Entity49
+    100160: Entity50
+    100162: Entity51
+    100164: Entity52
+    100166: Entity53
+    100168: Entity54
+    100170: Entity55
+    100172: Entity56
+    100174: Entity57
+    100176: Entity58
+    100178: Entity59
+    100180: Entity60
+    100182: Entity61
+    100184: Entity62
+    100186: Entity63
+    100188: Entity64
+    100190: Entity65
+    100192: Entity66
+    100194: Entity67
+    100196: Entity68
+    100198: Entity70
+    100200: Entity71
+    100202: Entity72
+    100204: Entity73
+    100206: Entity74
+    100208: Entity75
+    100210: Entity76
+    100212: Entity77
+    100214: Entity78
+    100216: Entity79
+    100218: Entity80
+    100220: Entity81
+    100222: Entity82
+    100224: Entity83
+    100226: Entity84
+    100228: Entity85
+    100230: Entity90
+    100232: Entity91
+    100234: Entity92
+    100236: Entity93
+    100238: Entity96
+    100240: Entity97
+    100242: floor
+    100244: front-gla0
+    100246: Group 1
+    100248: Group 10
+    100250: Group 12
+    100252: Group 14
+    100254: Group 16
+    100256: Group 18
+    100258: Group 2
+    100260: Group 20
+    100262: Group 31
+    100264: Group 32
+    100266: Group 4
+    100268: Group 6
+    100270: Group 8
+    100272: muffler
+    100274: roof0
+    100276: trunk
+    400000: //RootNode
+    400002: Entity02
+    400004: Entity03
+    400006: Entity04
+    400008: Entity05
+    400010: Entity06
+    400012: Entity07
+    400014: Entity08
+    400016: Entity09
+    400018: Entity10
+    400020: Entity102
+    400022: Entity103
+    400024: Entity104
+    400026: Entity105
+    400028: Entity106
+    400030: Entity107
+    400032: Entity108
+    400034: Entity109
+    400036: Entity11
+    400038: Entity110
+    400040: Entity12
+    400042: Entity13
+    400044: Entity136
+    400046: Entity137
+    400048: Entity138
+    400050: Entity139
+    400052: Entity140
+    400054: Entity142
+    400056: Entity143
+    400058: Entity144
+    400060: Entity145
+    400062: Entity146
+    400064: Entity147
+    400066: Entity148
+    400068: Entity149
+    400070: Entity15
+    400072: Entity150
+    400074: Entity151
+    400076: Entity153
+    400078: Entity154
+    400080: Entity155
+    400082: Entity156
+    400084: Entity157
+    400086: Entity158
+    400088: Entity16
+    400090: Entity160
+    400092: Entity161
+    400094: Entity162
+    400096: Entity163
+    400098: Entity164
+    400100: Entity165
+    400102: Entity166
+    400104: Entity167
+    400106: Entity17
+    400108: Entity170
+    400110: Entity171
+    400112: Entity172
+    400114: Entity173
+    400116: Entity174
+    400118: Entity175
+    400120: Entity176
+    400122: Entity177
+    400124: Entity178
+    400126: Entity179
+    400128: Entity180
+    400130: Entity181
+    400132: Entity28
+    400134: Entity30
+    400136: Entity31
+    400138: Entity33
+    400140: Entity40
+    400142: Entity41
+    400144: Entity42
+    400146: Entity43
+    400148: Entity44
+    400150: Entity45
+    400152: Entity46
+    400154: Entity47
+    400156: Entity48
+    400158: Entity49
+    400160: Entity50
+    400162: Entity51
+    400164: Entity52
+    400166: Entity53
+    400168: Entity54
+    400170: Entity55
+    400172: Entity56
+    400174: Entity57
+    400176: Entity58
+    400178: Entity59
+    400180: Entity60
+    400182: Entity61
+    400184: Entity62
+    400186: Entity63
+    400188: Entity64
+    400190: Entity65
+    400192: Entity66
+    400194: Entity67
+    400196: Entity68
+    400198: Entity70
+    400200: Entity71
+    400202: Entity72
+    400204: Entity73
+    400206: Entity74
+    400208: Entity75
+    400210: Entity76
+    400212: Entity77
+    400214: Entity78
+    400216: Entity79
+    400218: Entity80
+    400220: Entity81
+    400222: Entity82
+    400224: Entity83
+    400226: Entity84
+    400228: Entity85
+    400230: Entity90
+    400232: Entity91
+    400234: Entity92
+    400236: Entity93
+    400238: Entity96
+    400240: Entity97
+    400242: floor
+    400244: front-gla0
+    400246: Group 1
+    400248: Group 10
+    400250: Group 12
+    400252: Group 14
+    400254: Group 16
+    400256: Group 18
+    400258: Group 2
+    400260: Group 20
+    400262: Group 31
+    400264: Group 32
+    400266: Group 4
+    400268: Group 6
+    400270: Group 8
+    400272: muffler
+    400274: roof0
+    400276: trunk
+    2300000: Entity02
+    2300002: Entity03
+    2300004: Entity04
+    2300006: Entity05
+    2300008: Entity06
+    2300010: Entity07
+    2300012: Entity08
+    2300014: Entity09
+    2300016: Entity10
+    2300018: Entity102
+    2300020: Entity103
+    2300022: Entity104
+    2300024: Entity105
+    2300026: Entity106
+    2300028: Entity107
+    2300030: Entity108
+    2300032: Entity109
+    2300034: Entity11
+    2300036: Entity110
+    2300038: Entity12
+    2300040: Entity13
+    2300042: Entity136
+    2300044: Entity137
+    2300046: Entity138
+    2300048: Entity139
+    2300050: Entity140
+    2300052: Entity142
+    2300054: Entity143
+    2300056: Entity144
+    2300058: Entity145
+    2300060: Entity146
+    2300062: Entity147
+    2300064: Entity148
+    2300066: Entity149
+    2300068: Entity15
+    2300070: Entity150
+    2300072: Entity151
+    2300074: Entity153
+    2300076: Entity154
+    2300078: Entity155
+    2300080: Entity156
+    2300082: Entity157
+    2300084: Entity158
+    2300086: Entity16
+    2300088: Entity160
+    2300090: Entity161
+    2300092: Entity162
+    2300094: Entity163
+    2300096: Entity164
+    2300098: Entity165
+    2300100: Entity166
+    2300102: Entity167
+    2300104: Entity17
+    2300106: Entity170
+    2300108: Entity171
+    2300110: Entity172
+    2300112: Entity173
+    2300114: Entity174
+    2300116: Entity175
+    2300118: Entity176
+    2300120: Entity177
+    2300122: Entity178
+    2300124: Entity179
+    2300126: Entity180
+    2300128: Entity181
+    2300130: Entity28
+    2300132: Entity30
+    2300134: Entity31
+    2300136: Entity33
+    2300138: Entity40
+    2300140: Entity41
+    2300142: Entity42
+    2300144: Entity43
+    2300146: Entity44
+    2300148: Entity45
+    2300150: Entity46
+    2300152: Entity47
+    2300154: Entity48
+    2300156: Entity49
+    2300158: Entity50
+    2300160: Entity51
+    2300162: Entity52
+    2300164: Entity53
+    2300166: Entity54
+    2300168: Entity55
+    2300170: Entity56
+    2300172: Entity57
+    2300174: Entity58
+    2300176: Entity59
+    2300178: Entity60
+    2300180: Entity61
+    2300182: Entity62
+    2300184: Entity63
+    2300186: Entity64
+    2300188: Entity65
+    2300190: Entity66
+    2300192: Entity67
+    2300194: Entity68
+    2300196: Entity70
+    2300198: Entity71
+    2300200: Entity72
+    2300202: Entity73
+    2300204: Entity74
+    2300206: Entity75
+    2300208: Entity76
+    2300210: Entity77
+    2300212: Entity78
+    2300214: Entity79
+    2300216: Entity80
+    2300218: Entity81
+    2300220: Entity82
+    2300222: Entity83
+    2300224: Entity84
+    2300226: Entity85
+    2300228: Entity90
+    2300230: Entity91
+    2300232: Entity92
+    2300234: Entity93
+    2300236: Entity96
+    2300238: Entity97
+    2300240: floor
+    2300242: front-gla0
+    2300244: Group 10
+    2300246: Group 12
+    2300248: Group 14
+    2300250: Group 16
+    2300252: Group 18
+    2300254: Group 2
+    2300256: Group 32
+    2300258: Group 4
+    2300260: Group 6
+    2300262: Group 8
+    2300264: muffler
+    2300266: roof0
+    2300268: trunk
+    3300000: Entity02
+    3300002: Entity03
+    3300004: Entity04
+    3300006: Entity05
+    3300008: Entity06
+    3300010: Entity07
+    3300012: Entity08
+    3300014: Entity09
+    3300016: Entity10
+    3300018: Entity102
+    3300020: Entity103
+    3300022: Entity104
+    3300024: Entity105
+    3300026: Entity106
+    3300028: Entity107
+    3300030: Entity108
+    3300032: Entity109
+    3300034: Entity11
+    3300036: Entity110
+    3300038: Entity12
+    3300040: Entity13
+    3300042: Entity136
+    3300044: Entity137
+    3300046: Entity138
+    3300048: Entity139
+    3300050: Entity140
+    3300052: Entity142
+    3300054: Entity143
+    3300056: Entity144
+    3300058: Entity145
+    3300060: Entity146
+    3300062: Entity147
+    3300064: Entity148
+    3300066: Entity149
+    3300068: Entity15
+    3300070: Entity150
+    3300072: Entity151
+    3300074: Entity153
+    3300076: Entity154
+    3300078: Entity155
+    3300080: Entity156
+    3300082: Entity157
+    3300084: Entity158
+    3300086: Entity16
+    3300088: Entity160
+    3300090: Entity161
+    3300092: Entity162
+    3300094: Entity163
+    3300096: Entity164
+    3300098: Entity165
+    3300100: Entity166
+    3300102: Entity167
+    3300104: Entity17
+    3300106: Entity170
+    3300108: Entity171
+    3300110: Entity172
+    3300112: Entity173
+    3300114: Entity174
+    3300116: Entity175
+    3300118: Entity176
+    3300120: Entity177
+    3300122: Entity178
+    3300124: Entity179
+    3300126: Entity180
+    3300128: Entity181
+    3300130: Entity28
+    3300132: Entity30
+    3300134: Entity31
+    3300136: Entity33
+    3300138: Entity40
+    3300140: Entity41
+    3300142: Entity42
+    3300144: Entity43
+    3300146: Entity44
+    3300148: Entity45
+    3300150: Entity46
+    3300152: Entity47
+    3300154: Entity48
+    3300156: Entity49
+    3300158: Entity50
+    3300160: Entity51
+    3300162: Entity52
+    3300164: Entity53
+    3300166: Entity54
+    3300168: Entity55
+    3300170: Entity56
+    3300172: Entity57
+    3300174: Entity58
+    3300176: Entity59
+    3300178: Entity60
+    3300180: Entity61
+    3300182: Entity62
+    3300184: Entity63
+    3300186: Entity64
+    3300188: Entity65
+    3300190: Entity66
+    3300192: Entity67
+    3300194: Entity68
+    3300196: Entity70
+    3300198: Entity71
+    3300200: Entity72
+    3300202: Entity73
+    3300204: Entity74
+    3300206: Entity75
+    3300208: Entity76
+    3300210: Entity77
+    3300212: Entity78
+    3300214: Entity79
+    3300216: Entity80
+    3300218: Entity81
+    3300220: Entity82
+    3300222: Entity83
+    3300224: Entity84
+    3300226: Entity85
+    3300228: Entity90
+    3300230: Entity91
+    3300232: Entity92
+    3300234: Entity93
+    3300236: Entity96
+    3300238: Entity97
+    3300240: floor
+    3300242: front-gla0
+    3300244: Group 10
+    3300246: Group 12
+    3300248: Group 14
+    3300250: Group 16
+    3300252: Group 18
+    3300254: Group 2
+    3300256: Group 32
+    3300258: Group 4
+    3300260: Group 6
+    3300262: Group 8
+    3300264: muffler
+    3300266: roof0
+    3300268: trunk
+    4300000: Mesh Group 2
+    4300002: Mesh Group 4
+    4300004: Mesh Group 6
+    4300006: Mesh Group 8
+    4300008: Mesh Group 10
+    4300010: Mesh Group 12
+    4300012: Mesh Group 14
+    4300014: Mesh Group 16
+    4300016: Mesh Group 18
+    4300018: Mesh Entity151
+    4300020: Mesh Entity150
+    4300022: Mesh Entity153
+    4300024: Mesh Entity154
+    4300026: Mesh Entity155
+    4300028: Mesh Group 32
+    4300030: Mesh Entity28
+    4300032: Mesh Entity15
+    4300034: Mesh Entity67
+    4300036: Mesh Entity60
+    4300038: Mesh Entity59
+    4300040: Mesh Entity58
+    4300042: Mesh Entity61
+    4300044: Mesh Entity55
+    4300046: Mesh Entity63
+    4300048: Mesh Entity62
+    4300050: Mesh Entity64
+    4300052: Mesh Entity75
+    4300054: Mesh Entity74
+    4300056: Mesh Entity73
+    4300058: Mesh Entity72
+    4300060: Mesh Entity71
+    4300062: Mesh Entity70
+    4300064: Mesh Entity83
+    4300066: Mesh Entity82
+    4300068: Mesh Entity81
+    4300070: Mesh Entity80
+    4300072: Mesh Entity79
+    4300074: Mesh Entity78
+    4300076: Mesh Entity77
+    4300078: Mesh Entity76
+    4300080: Mesh Entity06
+    4300082: Mesh Entity54
+    4300084: Mesh Entity04
+    4300086: Mesh Entity03
+    4300088: Mesh Entity05
+    4300090: Mesh Entity48
+    4300092: Mesh Entity66
+    4300094: Mesh Entity56
+    4300096: Mesh Entity11
+    4300098: Mesh Entity57
+    4300100: Mesh Entity84
+    4300102: Mesh Entity85
+    4300104: Mesh front-gla0
+    4300106: Mesh Entity42
+    4300108: Mesh Entity43
+    4300110: Mesh Entity44
+    4300112: Mesh Entity45
+    4300114: Mesh Entity46
+    4300116: Mesh Entity47
+    4300118: Mesh Entity30
+    4300120: Mesh Entity31
+    4300122: Mesh Entity13
+    4300124: Mesh Entity12
+    4300126: Mesh Entity50
+    4300128: Mesh Entity16
+    4300130: Mesh Entity17
+    4300132: Mesh Entity40
+    4300134: Mesh Entity41
+    4300136: Mesh Entity33
+    4300138: Mesh Entity108
+    4300140: Mesh Entity109
+    4300142: Mesh Entity110
+    4300144: Mesh Entity104
+    4300146: Mesh Entity105
+    4300148: Mesh Entity106
+    4300150: Mesh Entity107
+    4300152: Mesh muffler
+    4300154: Mesh Entity162
+    4300156: Mesh Entity51
+    4300158: Mesh Entity164
+    4300160: Mesh Entity165
+    4300162: Mesh Entity163
+    4300164: Mesh Entity156
+    4300166: Mesh Entity157
+    4300168: Mesh Entity158
+    4300170: Mesh Entity167
+    4300172: Mesh Entity148
+    4300174: Mesh Entity149
+    4300176: Mesh Entity172
+    4300178: Mesh Entity173
+    4300180: Mesh Entity174
+    4300182: Mesh Entity175
+    4300184: Mesh Entity176
+    4300186: Mesh Entity177
+    4300188: Mesh Entity07
+    4300190: Mesh Entity178
+    4300192: Mesh Entity179
+    4300194: Mesh Entity180
+    4300196: Mesh Entity181
+    4300198: Mesh Entity160
+    4300200: Mesh Entity161
+    4300202: Mesh Entity170
+    4300204: Mesh floor
+    4300206: Mesh Entity171
+    4300208: Mesh roof0
+    4300210: Mesh trunk
+    4300212: Mesh Entity92
+    4300214: Mesh Entity93
+    4300216: Mesh Entity90
+    4300218: Mesh Entity91
+    4300220: Mesh Entity102
+    4300222: Mesh Entity103
+    4300224: Mesh Entity96
+    4300226: Mesh Entity97
+    4300228: Mesh Entity136
+    4300230: Mesh Entity137
+    4300232: Mesh Entity142
+    4300234: Mesh Entity138
+    4300236: Mesh Entity139
+    4300238: Mesh Entity140
+    4300240: Mesh Entity143
+    4300242: Mesh Entity144
+    4300244: Mesh Entity146
+    4300246: Mesh Entity147
+    4300248: Mesh Entity145
+    4300250: Mesh Entity08
+    4300252: Mesh Entity52
+    4300254: Mesh Entity65
+    4300256: Mesh Entity10
+    4300258: Mesh Entity49
+    4300260: Mesh Entity02
+    4300262: Mesh Entity09
+    4300264: Mesh Entity53
+    4300266: Mesh Entity68
+    4300268: Mesh Entity166
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 8d798e25408b51247918fe23814ddf55
+timeCreated: 1480602330
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 270e15af8dfc2b437acc4d68babae280
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 1.1611092, y: 4.8896136, z: -7.154425}
+      lookAt: {x: -141712.02, y: -217593.95, z: 327216.62}
+      up: {x: -0.20700851, y: 0.85362107, z: 0.4779944}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bonnet_ok
+    100002: boot_ok
+    100004: brake
+    100006: bump_fro01
+    100008: bump_rea01
+    100010: //RootNode
+    100012: chassis
+    100014: door_lf_ok
+    100016: door_lr_ok
+    100018: door_rf_ok
+    100020: door_rr_ok
+    100022: font_far
+    100024: Group 1
+    100026: Group 2
+    100028: inwardly
+    100030: motor
+    100032: rear_far
+    100034: seats
+    100036: torpeda
+    100038: wheel
+    100040: wheel 1
+    100042: wheel 2
+    100044: wheel 3
+    100046: windscre01
+    400000: bonnet_ok
+    400002: boot_ok
+    400004: brake
+    400006: bump_fro01
+    400008: bump_rea01
+    400010: //RootNode
+    400012: chassis
+    400014: door_lf_ok
+    400016: door_lr_ok
+    400018: door_rf_ok
+    400020: door_rr_ok
+    400022: font_far
+    400024: Group 1
+    400026: Group 2
+    400028: inwardly
+    400030: motor
+    400032: rear_far
+    400034: seats
+    400036: torpeda
+    400038: wheel
+    400040: wheel 1
+    400042: wheel 2
+    400044: wheel 3
+    400046: windscre01
+    2300000: bonnet_ok
+    2300002: boot_ok
+    2300004: brake
+    2300006: bump_fro01
+    2300008: bump_rea01
+    2300010: chassis
+    2300012: door_lf_ok
+    2300014: door_lr_ok
+    2300016: door_rf_ok
+    2300018: door_rr_ok
+    2300020: font_far
+    2300022: Group 2
+    2300024: inwardly
+    2300026: motor
+    2300028: rear_far
+    2300030: seats
+    2300032: torpeda
+    2300034: wheel
+    2300036: wheel 1
+    2300038: wheel 2
+    2300040: wheel 3
+    2300042: windscre01
+    3300000: bonnet_ok
+    3300002: boot_ok
+    3300004: brake
+    3300006: bump_fro01
+    3300008: bump_rea01
+    3300010: chassis
+    3300012: door_lf_ok
+    3300014: door_lr_ok
+    3300016: door_rf_ok
+    3300018: door_rr_ok
+    3300020: font_far
+    3300022: Group 2
+    3300024: inwardly
+    3300026: motor
+    3300028: rear_far
+    3300030: seats
+    3300032: torpeda
+    3300034: wheel
+    3300036: wheel 1
+    3300038: wheel 2
+    3300040: wheel 3
+    3300042: windscre01
+    4300000: Mesh Group 2
+    4300002: Mesh door_rr_ok
+    4300004: Mesh boot_ok
+    4300006: Mesh windscre01
+    4300008: Mesh door_lf_ok
+    4300010: Mesh chassis
+    4300012: Mesh font_far
+    4300014: Mesh inwardly
+    4300016: Mesh motor
+    4300018: Mesh rear_far
+    4300020: Mesh seats
+    4300022: Mesh torpeda
+    4300024: Mesh wheel
+    4300026: Mesh door_rf_ok
+    4300028: Mesh bonnet_ok
+    4300030: Mesh bump_rea01
+    4300032: Mesh bump_fro01
+    4300034: Mesh brake
+    4300036: Mesh door_lr_ok
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

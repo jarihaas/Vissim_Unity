@@ -44,7 +44,7 @@ public partial class VissimInterface : MonoBehaviour {
         }
       } catch (Exception e) {
         string error = "Exception in Update: " + e.Message + " " + e.StackTrace;
-        Debug.Log(error);
+        Debug.LogError(error);
       } finally {
         Monitor.Exit(exchangeData);
       }
@@ -59,20 +59,25 @@ public partial class VissimInterface : MonoBehaviour {
     myCarPosZ = myself.localPosition.z;
   }
 
+  private Text speedText;
+  private TextMesh cockpitSpeedText;
+
   private void Update_Speedometer() {
     string speedString = Math.Round(exchangeData.DriverVehData[0].Speed * 3.6f) + " km/h";
-    GameObject speedDisplay = GameObject.Find("Speed");
-    if (speedDisplay != null) {
-      Text speedText = speedDisplay.GetComponent<Text>();
-      if (speedText != null)
-        speedText.text = speedString;
+    if (speedText == null) {
+      GameObject speedDisplay = GameObject.Find("Speed");
+      if (speedDisplay != null)
+        speedText = speedDisplay.GetComponent<Text>();
     }
-    GameObject cockpitSpeedDisplay = GameObject.Find("CockpitSpeed");
-    if (cockpitSpeedDisplay != null) {
-      TextMesh cockpitSpeedText = cockpitSpeedDisplay.GetComponent<TextMesh>();
-      if (cockpitSpeedText != null)
-        cockpitSpeedText.text = speedString;
+    if (speedText != null)
+      speedText.text = speedString;
+    if (cockpitSpeedText == null) {
+      GameObject cockpitSpeedDisplay = GameObject.Find("CockpitSpeed");
+      if (cockpitSpeedDisplay != null)
+        cockpitSpeedText = cockpitSpeedDisplay.GetComponent<TextMesh>();
     }
+    if (cockpitSpeedText != null)
+      cockpitSpeedText.text = speedString;
   }
 
   private void Send_My_Vehicle_State() {

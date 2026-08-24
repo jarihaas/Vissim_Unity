@@ -82,11 +82,11 @@ public partial class VissimInterface : MonoBehaviour {
     currentPedestrians = new Dictionary<int, GameObject>();
 
     // communicator vissim <-> unity
-    Debug.Log("Starting Vissim and communication threads...");
-    InitVissimCommunicator();
-
     simStepInTicks = importer.Sim_Steps_In_Ticks;
     lastUpdate = DateTime.Now.Ticks;
+
+    Debug.Log("Starting Vissim and communication threads...");
+    InitVissimCommunicator();
 
     // signal controller with all groups and heads
     currentSignalControllers = importer.Signal_Controllers;

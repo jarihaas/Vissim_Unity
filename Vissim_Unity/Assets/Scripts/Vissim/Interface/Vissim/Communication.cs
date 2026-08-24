@@ -123,6 +123,8 @@ public partial class VissimInterface : MonoBehaviour {
       if (nextUpdate <= DateTime.Now.Ticks) {
         nextUpdate += simStepInTicks;
         DoVissimCommunication();
+      } else {
+        Thread.Sleep(1);
       }
     }
   }

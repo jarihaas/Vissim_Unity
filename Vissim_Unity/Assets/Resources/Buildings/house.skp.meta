@@ -1,0 +1,1046 @@
+fileFormatVersion: 2
+guid: a53ded5ea028b0240aca840db57b89da
+timeCreated: 1486124616
+licenseType: Pro
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000
+  assetHash:
+    serializedVersion: 2
+    Hash: 080d3f11e2c30d2aa150ad8a86ab7bf0
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 14.537055, y: 3.3358026, z: -7.4161215}
+      lookAt: {x: 0.6791152, y: 4.4057207, z: 10.718798}
+      up: {x: 0.028431738, y: 0.9989031, z: -0.03720663}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 2-leaf sliding patio-door - TOPAZE sliding system
+    100002: 2-leaf sliding patio-door - TOPAZE sliding system 1
+    100004: 3029
+    100006: 3029#1
+    100008: 3029#2
+    100010: 3532
+    100012: 3532 1
+    100014: 3532 2
+    100016: A$C3A804B02
+    100018: Bookcase shelving 36 x 14
+    100020: Bookcase shelving 36 x 14 1
+    100022: Bookcase shelving 36 x 14 with books
+    100024: Bookcase shelving 36 x 14 with books 1
+    100026: bookshelves 36x14
+    100028: bookshelves 36x14 1
+    100030: Box02#2
+    100032: Component#6
+    100034: Component#7
+    100036: Cylinder02
+    100038: Cylinder02 1
+    100040: Cylinder02 2
+    100042: Desk Leg
+    100044: Desk Leg 1
+    100046: Desk Leg 2
+    100048: Desk Leg 3
+    100050: Desk Small
+    100052: Drawer Small
+    100054: Drawer Small 1
+    100056: Extractor hood_Miele_DA 5294 W
+    100058: Fiberglass inset shower 36 inches
+    100060: Foot
+    100062: Foot 1
+    100064: Foot 2
+    100066: Foot 3
+    100068: G 5915 SCi Futura Diamond Dishwasher
+    100070: Group 10
+    100072: Group 101
+    100074: Group 103
+    100076: Group 105
+    100078: Group 107
+    100080: Group 109
+    100082: Group 111
+    100084: Group 113
+    100086: Group 115
+    100088: Group 12
+    100090: Group 123
+    100092: Group 125
+    100094: Group 14
+    100096: Group 144
+    100098: Group 146
+    100100: Group 148
+    100102: Group 150
+    100104: Group 152
+    100106: Group 154
+    100108: Group 16
+    100110: Group 18
+    100112: Group 216
+    100114: Group 22
+    100116: Group 226
+    100118: Group 237
+    100120: Group 24
+    100122: Group 26
+    100124: Group 3
+    100126: Group 30
+    100128: Group 32
+    100130: Group 336
+    100132: Group 338
+    100134: Group 34
+    100136: Group 340
+    100138: Group 342
+    100140: Group 356
+    100142: Group 358
+    100144: Group 36
+    100146: Group 38
+    100148: Group 381
+    100150: Group 382
+    100152: Group 384
+    100154: Group 386
+    100156: Group 387
+    100158: Group 388
+    100160: Group 397
+    100162: Group 398
+    100164: Group 40
+    100166: Group 400
+    100168: Group 402
+    100170: Group 404
+    100172: Group 406
+    100174: Group 409
+    100176: Group 411
+    100178: Group 414
+    100180: Group 416
+    100182: Group 42
+    100184: Group 420
+    100186: Group 422
+    100188: Group 44
+    100190: Group 46
+    100192: Group 48
+    100194: Group 5
+    100196: Group 50
+    100198: Group 52
+    100200: Group 54
+    100202: Group 56
+    100204: Group 58
+    100206: Group 6
+    100208: Group 60
+    100210: Group 62
+    100212: Group 64
+    100214: Group 68
+    100216: Group 70
+    100218: Group 89
+    100220: Group 91
+    100222: Group 93
+    100224: Group 95
+    100226: Group 97
+    100228: Group 99
+    100230: Group#1
+    100232: Group#10
+    100234: Group#11
+    100236: Group#11 1
+    100238: Group#12
+    100240: Group#12 1
+    100242: Group#13
+    100244: Group#13 1
+    100246: Group#14
+    100248: Group#14 1
+    100250: Group#15
+    100252: Group#17
+    100254: Group#18
+    100256: Group#19
+    100258: Group#2
+    100260: Group#20
+    100262: Group#21
+    100264: Group#24
+    100266: Group#25
+    100268: Group#26
+    100270: Group#27
+    100272: Group#28
+    100274: Group#29
+    100276: Group#3
+    100278: Group#30
+    100280: Group#31
+    100282: Group#33
+    100284: Group#34
+    100286: Group#35
+    100288: Group#36
+    100290: Group#37
+    100292: Group#38
+    100294: Group#39
+    100296: Group#4
+    100298: Group#40
+    100300: Group#40 1
+    100302: Group#41
+    100304: Group#5
+    100306: Group#55
+    100308: Group#55 1
+    100310: Group#55 10
+    100312: Group#55 11
+    100314: Group#55 12
+    100316: Group#55 13
+    100318: Group#55 14
+    100320: Group#55 15
+    100322: Group#55 16
+    100324: Group#55 17
+    100326: Group#55 18
+    100328: Group#55 19
+    100330: Group#55 2
+    100332: Group#55 20
+    100334: Group#55 21
+    100336: Group#55 3
+    100338: Group#55 4
+    100340: Group#55 5
+    100342: Group#55 6
+    100344: Group#55 7
+    100346: Group#55 8
+    100348: Group#55 9
+    100350: Group#6
+    100352: Group#7
+    100354: Group#8
+    100356: Group#9
+    100358: Group#9 1
+    100360: half
+    100362: half 1
+    100364: //RootNode
+    100366: K-510 Dynametric 5' Bath
+    100368: K-520 Dynametric(R) 5' Bath
+    100370: key
+    100372: key 1
+    100374: key 2
+    100376: key 3
+    100378: key 4
+    100380: key 5
+    100382: m2511086_VISB423(2).dwg
+    100384: Modern rectangular sink
+    100386: Modern water faucet set
+    100388: 'object #2'
+    100390: 'object #2 1'
+    100392: 'object #2 2'
+    100394: 'object #2 3'
+    100396: 'object #3'
+    100398: 'object #3 1'
+    100400: 'object #3 2'
+    100402: Office desk
+    100404: Office desk 1
+    100406: OuterShell
+    100408: PF 2V
+    100410: PF 2V 1
+    100412: Refridgerator
+    100414: RK-DRAIN
+    100416: RT_21#1
+    100418: RT_21#2
+    100420: RT_21#2 1
+    100422: RT_21#2 2
+    100424: shower faucet
+    100426: skp25
+    100428: skp25 1
+    100430: skp30
+    100432: skp30 1
+    100434: skp30 2
+    100436: Sliding French Door - Marvin Ultimate Collection
+    100438: Small Desk
+    100440: Tudor Home
+    100442: Vertical filing short
+    100444: Vertical filing short 1
+    100446: Vertical filing short 2
+    100448: Vertical filing short 3
+    100450: Vertical filing short 4
+    100452: Vertical filing short 5
+    100454: VGSU163.DXF
+    400000: 2-leaf sliding patio-door - TOPAZE sliding system
+    400002: 2-leaf sliding patio-door - TOPAZE sliding system 1
+    400004: 3029
+    400006: 3029#1
+    400008: 3029#2
+    400010: 3532
+    400012: 3532 1
+    400014: 3532 2
+    400016: A$C3A804B02
+    400018: Bookcase shelving 36 x 14
+    400020: Bookcase shelving 36 x 14 1
+    400022: Bookcase shelving 36 x 14 with books
+    400024: Bookcase shelving 36 x 14 with books 1
+    400026: bookshelves 36x14
+    400028: bookshelves 36x14 1
+    400030: Box02#2
+    400032: Component#6
+    400034: Component#7
+    400036: Cylinder02
+    400038: Cylinder02 1
+    400040: Cylinder02 2
+    400042: Desk Leg
+    400044: Desk Leg 1
+    400046: Desk Leg 2
+    400048: Desk Leg 3
+    400050: Desk Small
+    400052: Drawer Small
+    400054: Drawer Small 1
+    400056: Extractor hood_Miele_DA 5294 W
+    400058: Fiberglass inset shower 36 inches
+    400060: Foot
+    400062: Foot 1
+    400064: Foot 2
+    400066: Foot 3
+    400068: G 5915 SCi Futura Diamond Dishwasher
+    400070: Group 10
+    400072: Group 101
+    400074: Group 103
+    400076: Group 105
+    400078: Group 107
+    400080: Group 109
+    400082: Group 111
+    400084: Group 113
+    400086: Group 115
+    400088: Group 12
+    400090: Group 123
+    400092: Group 125
+    400094: Group 14
+    400096: Group 144
+    400098: Group 146
+    400100: Group 148
+    400102: Group 150
+    400104: Group 152
+    400106: Group 154
+    400108: Group 16
+    400110: Group 18
+    400112: Group 216
+    400114: Group 22
+    400116: Group 226
+    400118: Group 237
+    400120: Group 24
+    400122: Group 26
+    400124: Group 3
+    400126: Group 30
+    400128: Group 32
+    400130: Group 336
+    400132: Group 338
+    400134: Group 34
+    400136: Group 340
+    400138: Group 342
+    400140: Group 356
+    400142: Group 358
+    400144: Group 36
+    400146: Group 38
+    400148: Group 381
+    400150: Group 382
+    400152: Group 384
+    400154: Group 386
+    400156: Group 387
+    400158: Group 388
+    400160: Group 397
+    400162: Group 398
+    400164: Group 40
+    400166: Group 400
+    400168: Group 402
+    400170: Group 404
+    400172: Group 406
+    400174: Group 409
+    400176: Group 411
+    400178: Group 414
+    400180: Group 416
+    400182: Group 42
+    400184: Group 420
+    400186: Group 422
+    400188: Group 44
+    400190: Group 46
+    400192: Group 48
+    400194: Group 5
+    400196: Group 50
+    400198: Group 52
+    400200: Group 54
+    400202: Group 56
+    400204: Group 58
+    400206: Group 6
+    400208: Group 60
+    400210: Group 62
+    400212: Group 64
+    400214: Group 68
+    400216: Group 70
+    400218: Group 89
+    400220: Group 91
+    400222: Group 93
+    400224: Group 95
+    400226: Group 97
+    400228: Group 99
+    400230: Group#1
+    400232: Group#10
+    400234: Group#11
+    400236: Group#11 1
+    400238: Group#12
+    400240: Group#12 1
+    400242: Group#13
+    400244: Group#13 1
+    400246: Group#14
+    400248: Group#14 1
+    400250: Group#15
+    400252: Group#17
+    400254: Group#18
+    400256: Group#19
+    400258: Group#2
+    400260: Group#20
+    400262: Group#21
+    400264: Group#24
+    400266: Group#25
+    400268: Group#26
+    400270: Group#27
+    400272: Group#28
+    400274: Group#29
+    400276: Group#3
+    400278: Group#30
+    400280: Group#31
+    400282: Group#33
+    400284: Group#34
+    400286: Group#35
+    400288: Group#36
+    400290: Group#37
+    400292: Group#38
+    400294: Group#39
+    400296: Group#4
+    400298: Group#40
+    400300: Group#40 1
+    400302: Group#41
+    400304: Group#5
+    400306: Group#55
+    400308: Group#55 1
+    400310: Group#55 10
+    400312: Group#55 11
+    400314: Group#55 12
+    400316: Group#55 13
+    400318: Group#55 14
+    400320: Group#55 15
+    400322: Group#55 16
+    400324: Group#55 17
+    400326: Group#55 18
+    400328: Group#55 19
+    400330: Group#55 2
+    400332: Group#55 20
+    400334: Group#55 21
+    400336: Group#55 3
+    400338: Group#55 4
+    400340: Group#55 5
+    400342: Group#55 6
+    400344: Group#55 7
+    400346: Group#55 8
+    400348: Group#55 9
+    400350: Group#6
+    400352: Group#7
+    400354: Group#8
+    400356: Group#9
+    400358: Group#9 1
+    400360: half
+    400362: half 1
+    400364: //RootNode
+    400366: K-510 Dynametric 5' Bath
+    400368: K-520 Dynametric(R) 5' Bath
+    400370: key
+    400372: key 1
+    400374: key 2
+    400376: key 3
+    400378: key 4
+    400380: key 5
+    400382: m2511086_VISB423(2).dwg
+    400384: Modern rectangular sink
+    400386: Modern water faucet set
+    400388: 'object #2'
+    400390: 'object #2 1'
+    400392: 'object #2 2'
+    400394: 'object #2 3'
+    400396: 'object #3'
+    400398: 'object #3 1'
+    400400: 'object #3 2'
+    400402: Office desk
+    400404: Office desk 1
+    400406: OuterShell
+    400408: PF 2V
+    400410: PF 2V 1
+    400412: Refridgerator
+    400414: RK-DRAIN
+    400416: RT_21#1
+    400418: RT_21#2
+    400420: RT_21#2 1
+    400422: RT_21#2 2
+    400424: shower faucet
+    400426: skp25
+    400428: skp25 1
+    400430: skp30
+    400432: skp30 1
+    400434: skp30 2
+    400436: Sliding French Door - Marvin Ultimate Collection
+    400438: Small Desk
+    400440: Tudor Home
+    400442: Vertical filing short
+    400444: Vertical filing short 1
+    400446: Vertical filing short 2
+    400448: Vertical filing short 3
+    400450: Vertical filing short 4
+    400452: Vertical filing short 5
+    400454: VGSU163.DXF
+    2300000: 3029
+    2300002: 3029#1
+    2300004: 3029#2
+    2300006: Bookcase shelving 36 x 14
+    2300008: Bookcase shelving 36 x 14 1
+    2300010: bookshelves 36x14
+    2300012: bookshelves 36x14 1
+    2300014: Component#6
+    2300016: Component#7
+    2300018: Desk Leg
+    2300020: Desk Leg 1
+    2300022: Desk Leg 2
+    2300024: Desk Leg 3
+    2300026: Fiberglass inset shower 36 inches
+    2300028: Foot
+    2300030: Foot 1
+    2300032: Foot 2
+    2300034: Foot 3
+    2300036: Group 10
+    2300038: Group 101
+    2300040: Group 103
+    2300042: Group 105
+    2300044: Group 107
+    2300046: Group 109
+    2300048: Group 111
+    2300050: Group 113
+    2300052: Group 115
+    2300054: Group 12
+    2300056: Group 123
+    2300058: Group 14
+    2300060: Group 144
+    2300062: Group 146
+    2300064: Group 148
+    2300066: Group 150
+    2300068: Group 152
+    2300070: Group 154
+    2300072: Group 16
+    2300074: Group 18
+    2300076: Group 216
+    2300078: Group 22
+    2300080: Group 226
+    2300082: Group 237
+    2300084: Group 24
+    2300086: Group 26
+    2300088: Group 3
+    2300090: Group 30
+    2300092: Group 32
+    2300094: Group 336
+    2300096: Group 338
+    2300098: Group 34
+    2300100: Group 340
+    2300102: Group 342
+    2300104: Group 356
+    2300106: Group 358
+    2300108: Group 36
+    2300110: Group 38
+    2300112: Group 382
+    2300114: Group 384
+    2300116: Group 398
+    2300118: Group 40
+    2300120: Group 400
+    2300122: Group 402
+    2300124: Group 404
+    2300126: Group 406
+    2300128: Group 409
+    2300130: Group 411
+    2300132: Group 414
+    2300134: Group 416
+    2300136: Group 42
+    2300138: Group 420
+    2300140: Group 422
+    2300142: Group 44
+    2300144: Group 46
+    2300146: Group 48
+    2300148: Group 50
+    2300150: Group 52
+    2300152: Group 54
+    2300154: Group 56
+    2300156: Group 58
+    2300158: Group 6
+    2300160: Group 60
+    2300162: Group 62
+    2300164: Group 64
+    2300166: Group 68
+    2300168: Group 89
+    2300170: Group 91
+    2300172: Group 93
+    2300174: Group 95
+    2300176: Group 97
+    2300178: Group 99
+    2300180: Group#1
+    2300182: Group#10
+    2300184: Group#11
+    2300186: Group#11 1
+    2300188: Group#12
+    2300190: Group#12 1
+    2300192: Group#13
+    2300194: Group#13 1
+    2300196: Group#14
+    2300198: Group#14 1
+    2300200: Group#15
+    2300202: Group#17
+    2300204: Group#18
+    2300206: Group#19
+    2300208: Group#2
+    2300210: Group#20
+    2300212: Group#21
+    2300214: Group#24
+    2300216: Group#25
+    2300218: Group#26
+    2300220: Group#27
+    2300222: Group#28
+    2300224: Group#29
+    2300226: Group#3
+    2300228: Group#30
+    2300230: Group#31
+    2300232: Group#33
+    2300234: Group#34
+    2300236: Group#35
+    2300238: Group#36
+    2300240: Group#37
+    2300242: Group#38
+    2300244: Group#39
+    2300246: Group#4
+    2300248: Group#40
+    2300250: Group#40 1
+    2300252: Group#41
+    2300254: Group#5
+    2300256: Group#55
+    2300258: Group#55 1
+    2300260: Group#55 10
+    2300262: Group#55 11
+    2300264: Group#55 12
+    2300266: Group#55 13
+    2300268: Group#55 14
+    2300270: Group#55 15
+    2300272: Group#55 16
+    2300274: Group#55 17
+    2300276: Group#55 18
+    2300278: Group#55 19
+    2300280: Group#55 2
+    2300282: Group#55 20
+    2300284: Group#55 21
+    2300286: Group#55 3
+    2300288: Group#55 4
+    2300290: Group#55 5
+    2300292: Group#55 6
+    2300294: Group#55 7
+    2300296: Group#55 8
+    2300298: Group#55 9
+    2300300: Group#6
+    2300302: Group#7
+    2300304: Group#8
+    2300306: Group#9
+    2300308: Group#9 1
+    2300310: half
+    2300312: half 1
+    2300314: K-510 Dynametric 5' Bath
+    2300316: key
+    2300318: key 1
+    2300320: key 2
+    2300322: key 3
+    2300324: key 4
+    2300326: key 5
+    2300328: Modern rectangular sink
+    2300330: Modern water faucet set
+    2300332: 'object #2'
+    2300334: 'object #3'
+    2300336: 'object #3 1'
+    2300338: 'object #3 2'
+    2300340: Office desk
+    2300342: Office desk 1
+    2300344: OuterShell
+    2300346: PF 2V
+    2300348: PF 2V 1
+    2300350: RK-DRAIN
+    2300352: RT_21#1
+    2300354: RT_21#2
+    2300356: RT_21#2 1
+    2300358: RT_21#2 2
+    2300360: Tudor Home
+    2300362: Vertical filing short
+    2300364: Vertical filing short 1
+    2300366: Vertical filing short 2
+    2300368: Vertical filing short 3
+    2300370: Vertical filing short 4
+    2300372: Vertical filing short 5
+    2300374: VGSU163.DXF
+    3300000: 3029
+    3300002: 3029#1
+    3300004: 3029#2
+    3300006: Bookcase shelving 36 x 14
+    3300008: Bookcase shelving 36 x 14 1
+    3300010: bookshelves 36x14
+    3300012: bookshelves 36x14 1
+    3300014: Component#6
+    3300016: Component#7
+    3300018: Desk Leg
+    3300020: Desk Leg 1
+    3300022: Desk Leg 2
+    3300024: Desk Leg 3
+    3300026: Fiberglass inset shower 36 inches
+    3300028: Foot
+    3300030: Foot 1
+    3300032: Foot 2
+    3300034: Foot 3
+    3300036: Group 10
+    3300038: Group 101
+    3300040: Group 103
+    3300042: Group 105
+    3300044: Group 107
+    3300046: Group 109
+    3300048: Group 111
+    3300050: Group 113
+    3300052: Group 115
+    3300054: Group 12
+    3300056: Group 123
+    3300058: Group 14
+    3300060: Group 144
+    3300062: Group 146
+    3300064: Group 148
+    3300066: Group 150
+    3300068: Group 152
+    3300070: Group 154
+    3300072: Group 16
+    3300074: Group 18
+    3300076: Group 216
+    3300078: Group 22
+    3300080: Group 226
+    3300082: Group 237
+    3300084: Group 24
+    3300086: Group 26
+    3300088: Group 3
+    3300090: Group 30
+    3300092: Group 32
+    3300094: Group 336
+    3300096: Group 338
+    3300098: Group 34
+    3300100: Group 340
+    3300102: Group 342
+    3300104: Group 356
+    3300106: Group 358
+    3300108: Group 36
+    3300110: Group 38
+    3300112: Group 382
+    3300114: Group 384
+    3300116: Group 398
+    3300118: Group 40
+    3300120: Group 400
+    3300122: Group 402
+    3300124: Group 404
+    3300126: Group 406
+    3300128: Group 409
+    3300130: Group 411
+    3300132: Group 414
+    3300134: Group 416
+    3300136: Group 42
+    3300138: Group 420
+    3300140: Group 422
+    3300142: Group 44
+    3300144: Group 46
+    3300146: Group 48
+    3300148: Group 50
+    3300150: Group 52
+    3300152: Group 54
+    3300154: Group 56
+    3300156: Group 58
+    3300158: Group 6
+    3300160: Group 60
+    3300162: Group 62
+    3300164: Group 64
+    3300166: Group 68
+    3300168: Group 89
+    3300170: Group 91
+    3300172: Group 93
+    3300174: Group 95
+    3300176: Group 97
+    3300178: Group 99
+    3300180: Group#1
+    3300182: Group#10
+    3300184: Group#11
+    3300186: Group#11 1
+    3300188: Group#12
+    3300190: Group#12 1
+    3300192: Group#13
+    3300194: Group#13 1
+    3300196: Group#14
+    3300198: Group#14 1
+    3300200: Group#15
+    3300202: Group#17
+    3300204: Group#18
+    3300206: Group#19
+    3300208: Group#2
+    3300210: Group#20
+    3300212: Group#21
+    3300214: Group#24
+    3300216: Group#25
+    3300218: Group#26
+    3300220: Group#27
+    3300222: Group#28
+    3300224: Group#29
+    3300226: Group#3
+    3300228: Group#30
+    3300230: Group#31
+    3300232: Group#33
+    3300234: Group#34
+    3300236: Group#35
+    3300238: Group#36
+    3300240: Group#37
+    3300242: Group#38
+    3300244: Group#39
+    3300246: Group#4
+    3300248: Group#40
+    3300250: Group#40 1
+    3300252: Group#41
+    3300254: Group#5
+    3300256: Group#55
+    3300258: Group#55 1
+    3300260: Group#55 10
+    3300262: Group#55 11
+    3300264: Group#55 12
+    3300266: Group#55 13
+    3300268: Group#55 14
+    3300270: Group#55 15
+    3300272: Group#55 16
+    3300274: Group#55 17
+    3300276: Group#55 18
+    3300278: Group#55 19
+    3300280: Group#55 2
+    3300282: Group#55 20
+    3300284: Group#55 21
+    3300286: Group#55 3
+    3300288: Group#55 4
+    3300290: Group#55 5
+    3300292: Group#55 6
+    3300294: Group#55 7
+    3300296: Group#55 8
+    3300298: Group#55 9
+    3300300: Group#6
+    3300302: Group#7
+    3300304: Group#8
+    3300306: Group#9
+    3300308: Group#9 1
+    3300310: half
+    3300312: half 1
+    3300314: K-510 Dynametric 5' Bath
+    3300316: key
+    3300318: key 1
+    3300320: key 2
+    3300322: key 3
+    3300324: key 4
+    3300326: key 5
+    3300328: Modern rectangular sink
+    3300330: Modern water faucet set
+    3300332: 'object #2'
+    3300334: 'object #3'
+    3300336: 'object #3 1'
+    3300338: 'object #3 2'
+    3300340: Office desk
+    3300342: Office desk 1
+    3300344: OuterShell
+    3300346: PF 2V
+    3300348: PF 2V 1
+    3300350: RK-DRAIN
+    3300352: RT_21#1
+    3300354: RT_21#2
+    3300356: RT_21#2 1
+    3300358: RT_21#2 2
+    3300360: Tudor Home
+    3300362: Vertical filing short
+    3300364: Vertical filing short 1
+    3300366: Vertical filing short 2
+    3300368: Vertical filing short 3
+    3300370: Vertical filing short 4
+    3300372: Vertical filing short 5
+    3300374: VGSU163.DXF
+    4300000: Mesh Tudor Home
+    4300002: Mesh Group 3
+    4300004: Mesh Group 6
+    4300006: Mesh RT_21#2
+    4300008: Mesh Group 10
+    4300010: Mesh Group 12
+    4300012: Mesh Group 14
+    4300014: Mesh Group 18
+    4300016: Mesh Group 30
+    4300018: Mesh Group 32
+    4300020: Mesh Group 34
+    4300022: Mesh Group 36
+    4300024: Mesh Group 38
+    4300026: Mesh Group 40
+    4300028: Mesh Group 44
+    4300030: Mesh Group 56
+    4300032: Mesh Group 58
+    4300034: Mesh Group 60
+    4300036: Mesh Group 62
+    4300038: Mesh Group 64
+    4300040: Mesh RT_21#1
+    4300042: Mesh Group 68
+    4300044: Mesh Vertical filing short
+    4300046: Mesh Bookcase shelving 36 x 14
+    4300048: Mesh Group#55
+    4300050: Mesh Group 89
+    4300052: Mesh Group 91
+    4300054: Mesh Group 93
+    4300056: Mesh Group 95
+    4300058: Mesh Group 97
+    4300060: Mesh Group 99
+    4300062: Mesh Group 101
+    4300064: Mesh Group 105
+    4300066: Mesh Group 109
+    4300068: Mesh Group 113
+    4300070: Mesh Modern water faucet set
+    4300072: Mesh half
+    4300074: Mesh Group 123
+    4300076: Mesh Group 144
+    4300078: Mesh Group 152
+    4300080: Mesh Group 154
+    4300082: Mesh VGSU163.DXF
+    4300084: Mesh Group#9
+    4300086: Mesh Group#11
+    4300088: Mesh Group#12
+    4300090: Mesh Group#13
+    4300092: Mesh Group#14
+    4300094: Mesh Group#15
+    4300096: Mesh Group#17
+    4300098: Mesh Group#18
+    4300100: Mesh Group#19
+    4300102: Mesh Group#20
+    4300104: Mesh Group#21
+    4300106: Mesh Group#24
+    4300108: Mesh Group#25
+    4300110: Mesh Group#26
+    4300112: Mesh Group#27
+    4300114: Mesh Group#28
+    4300116: Mesh Group#29
+    4300118: Mesh Group#30
+    4300120: Mesh Group#31
+    4300122: Mesh Group#33
+    4300124: Mesh Group#34
+    4300126: Mesh Group#35
+    4300128: Mesh Group#36
+    4300130: Mesh Group#37
+    4300132: Mesh Group#38
+    4300134: Mesh Group#39
+    4300136: Mesh Group#40
+    4300138: Mesh Group#41
+    4300140: Mesh Group 216
+    4300142: Mesh Foot
+    4300144: Mesh Group 226
+    4300146: Mesh OuterShell
+    4300148: Mesh Group 237
+    4300150: Mesh Group#1
+    4300152: Mesh Group#2
+    4300154: Mesh Group#3
+    4300156: Mesh Group#4
+    4300158: Mesh Group#5
+    4300160: Mesh Group#6
+    4300162: Mesh Group#7
+    4300164: Mesh Group#8
+    4300166: Mesh Group#9
+    4300168: Mesh Group#10
+    4300170: Mesh Group#11
+    4300172: Mesh Group#12
+    4300174: Mesh Group#13
+    4300176: Mesh Group#14
+    4300178: Mesh Group#40
+    4300180: Mesh Office desk
+    4300182: Mesh key
+    4300184: Mesh bookshelves 36x14
+    4300186: Mesh Group#55
+    4300188: Mesh Group#55
+    4300190: Mesh PF 2V
+    4300192: Mesh PF 2V
+    4300194: Mesh Fiberglass inset shower 36 inches
+    4300196: Mesh Component#6
+    4300198: Mesh Component#7
+    4300200: Mesh 3029#1
+    4300202: Mesh Group 336
+    4300204: Mesh Group 338
+    4300206: Mesh Group 340
+    4300208: 'Mesh object #3'
+    4300210: Mesh 3029
+    4300212: 'Mesh object #2'
+    4300214: Mesh 3029#2
+    4300216: Mesh K-510 Dynametric 5' Bath
+    4300218: Mesh RK-DRAIN
+    4300220: Mesh Group 382
+    4300222: Mesh Group 384
+    4300224: Mesh Desk Leg
+    4300226: Mesh Group 398
+    4300228: Mesh Group 400
+    4300230: Mesh Group 404
+    4300232: Mesh Group 406
+    4300234: Mesh Group 411
+    4300236: Mesh Modern rectangular sink
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
